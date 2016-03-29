@@ -47,4 +47,14 @@ else
 	echo "Use \"./tg.sh\" to run telegram-CLI"
 	echo "Enjoy !"
 fi
---by: https://github.com/SEEDTEAM
+
+read -p "Powered by:@AdvanTM (ok):"
+
+if [ "$REPLY" != "ok" ]; then
+
+else
+
+        echo "Finish :)"
+fi
+
+
