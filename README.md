@@ -48,6 +48,12 @@ A simple telegram-bot wtitten in LUA based on [file manager bot](https://github.
 
 # Installation
 
+First install: install.sh
+
+```
+chmod +x isntall.sh
+./install.sh install
+```
 You should have [lua](http://www.lua.org/) installed
 
 ```bash
