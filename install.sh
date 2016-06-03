@@ -52,7 +52,6 @@ read -p "Powered by:@AdvanTM (ok):"
 
 if [ "$REPLY" != "ok" ]; then
 
-else
 
         echo "Finish :)"
 fi
