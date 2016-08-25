@@ -8,7 +8,7 @@ HTTPS = require('ssl.https')
 local bot_api_key = ""
 local BASE_URL = "https://api.telegram.org/bot"..bot_api_key
 local BASE_FOLDER = ""
-local start = [[HI
+local start = [[Hi (-;
 `/bold text`
 return *bold* text
 
