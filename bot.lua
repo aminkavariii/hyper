@@ -46,7 +46,7 @@ _just send a sticker_
 *photo to sticker*
 _just send a photo_
 
-[Source](https://github.com/pAyDaAr/lua-api-bot) ;-)
+[Admin](https://telegram.me/xXD4RKXx) ;-)
 ]] 
 
 -------
@@ -55,7 +55,7 @@ _just send a photo_
 
 function is_admin(msg)-- Check if user is admin or not
   local var = false
-  local admins = {}-- put your id here
+  local admins = {97242093}-- put your id here
   for k,v in pairs(admins) do
     if msg.from.id == v then
       var = true
